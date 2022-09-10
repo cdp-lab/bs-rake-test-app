@@ -1,0 +1,1 @@
+web: bundle exec rackup -o 0 -p 8080
